@@ -27,11 +27,11 @@ const letters = [
   "Creative",
   "&",
   "Interactive",
-  "webapps",
+  "dApps",
   "🚀",
 ];
 
-const title = ["Hello!", "I'm", "Tarun"];
+const title = ["Hello!", "I'm", "Rahul"];
 
 const Hero = () => {
   const [index, setIndex] = useState(0);
@@ -99,7 +99,7 @@ const Hero = () => {
             <div className="w-full flex md:flex-row flex-col justify-between items-center ">
               <div>
                 <p className=" text-white/60 font-Glimer-Light xl:text-[1.3rem] 2xl:text-[1.5rem] lg:text-base md:text-sm text-xs xl:leading-8 2xl:leading-9 lg:leading-6 leading-5 mb-6 md:mb-0">
-                  As a frontend developer, my expertise lies in creating
+                  As a full stack blockchain developer, my expertise lies in creating
                   seamless and intuitive user experiences. I specialize in using
                   cutting-edge technologies to produce high-quality web
                   applications. Specifically, I have vast knowledge of ReactJS
